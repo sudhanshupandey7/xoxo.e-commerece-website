@@ -1,0 +1,8 @@
+<svg width="200" height="50" viewBox="0 0 200 50" xmlns="http://www.w3.org/2000/svg">
+  <!-- Embedding the Logo Image -->
+  <image href="your-logo-path.svg" x="0" y="0" width="50" height="50"/>
+
+  <!-- Adding Logo Name "XoXo" -->
+  <text x="60" y="35" font-family="Arial, sans-serif" font-size="36" fill="#FF6347" font-weight="bold">XoXo</text>
+</svg>
+
